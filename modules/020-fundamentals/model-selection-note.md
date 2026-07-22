@@ -4,7 +4,7 @@
 **Author:** Igor Kartun — Engineering
 **Project:** Meridian Retail Group (MRG)
 **Task:** Generate unit tests for a new method
-**Committed location:** [Repo path or shared folder URL]
+**Committed location:** https://github.com/ikartun/AI-Factory.git
 
 ---
 
