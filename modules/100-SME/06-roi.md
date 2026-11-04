@@ -8,6 +8,12 @@ date: 2026-11-04
 ## Use case: UC-07/10 — ECGT Compliance Gap Detector
 Source: 05-canvas.md
 
+Note: 07-deck.md S6 carries a ramp-adjusted Year 1 net
+of ~+USD 1.24M (value from month 7 per S9 timeline);
+the table below is unadjusted (value from day one).
+See S6 speaker note in 07-deck.md for derivation.
+
+
 ## Provenance rule
 Every figure carries a source label or UNVERIFIED flag.
 UNVERIFIED = confirm before exec review.
